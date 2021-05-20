@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 87.43 s <<< FAILURE! - in TestSuite
+Academy.HomePageTest.initailiseBrowser  Time elapsed: 40.828 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'NOAH', ip: '192.168.179.31', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_151'
+Driver info: driver.version: ChromeDriver
+	at Academy.HomePageTest.initailiseBrowser(HomePageTest.java:28)
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:42575/status] to be available after 20003 ms
+	at Academy.HomePageTest.initailiseBrowser(HomePageTest.java:28)
+Caused by: java.util.concurrent.TimeoutException
+	at Academy.HomePageTest.initailiseBrowser(HomePageTest.java:28)
+

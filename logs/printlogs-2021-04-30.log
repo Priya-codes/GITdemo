@@ -1,0 +1,7 @@
+16:41:35.619 [main] INFO  resources.base - Text is matching hence its correct
+16:41:36.507 [main] INFO  resources.base - second test case broswer is closing 
+17:05:25.857 [main] INFO  resources.base - Browser is initailised
+17:05:48.351 [main] INFO  resources.base - URL is opened 
+17:05:55.390 [main] INFO  resources.base - We have entered in to the login page
+17:11:56.568 [main] INFO  resources.base - Broswer is closed 
+17:13:19.305 [main] INFO  resources.base - Text is matching hence its correct

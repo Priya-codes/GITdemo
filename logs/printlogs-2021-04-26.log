@@ -1,0 +1,8 @@
+22:35:58.305 [main] INFO  resources.base - URL is opened 
+22:35:59.821 [main] INFO  resources.base - We have entered in to the login page
+22:36:00.008 [main] INFO  resources.base - Broswer is closed 
+22:36:17.194 [main] INFO  resources.base - Text is matching hence its correct
+22:36:17.438 [main] INFO  resources.base - second test case broswer is closing 
+22:41:02.811 [main] INFO  resources.base - Browser is initailised
+22:41:28.880 [main] INFO  resources.base - URL is opened 
+22:41:39.067 [main] INFO  resources.base - URL is opened 

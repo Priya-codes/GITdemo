@@ -1,0 +1,7 @@
+22:38:02.599 [TestNG-tests-1] INFO  resources.base - URL is opened 
+22:38:12.217 [TestNG-tests-1] INFO  resources.base - We have entered in to the login page
+22:38:19.929 [TestNG-tests-1] INFO  resources.base - Broswer is closed 
+22:38:19.929 [TestNG-tests-2] INFO  resources.base - second test case broswer is closing 
+22:44:32.554 [TestNG-tests-1] INFO  resources.base - Browser is initailised
+22:45:08.153 [TestNG-tests-1] INFO  resources.base - URL is opened 
+22:45:20.040 [TestNG-tests-1] INFO  resources.base - URL is opened 
